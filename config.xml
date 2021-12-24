@@ -1,0 +1,17 @@
+<config>
+
+<!-- User Information -->
+
+<passkey v=''/>
+
+<team v='234980'/>
+
+<user v='39gbg2b573fi'/>
+
+<!-- Folding Slots -->
+
+<slot id='0' type='CPU'/>
+
+<slot id='1' type='GPU'/>
+
+</config>
